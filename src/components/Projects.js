@@ -38,7 +38,7 @@ const DEFAULT_IMAGES = [
     altThumbnail: thumb03,
     caption: 'Dev-Connector',
     tech:
-      'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like & unlike system and more.',
+      'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like and unlike system and more.',
     description: 'Tech: MongoDB, Express.Js, React.Js, Redux.Js, Node.Js',
     link: 'https://agile-temple-78256.herokuapp.com/',
   },
