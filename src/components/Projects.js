@@ -25,11 +25,11 @@ const DEFAULT_IMAGES = [
     id: 'thumb4',
     thumbnail: thumb04b,
     altThumbnail: thumb04,
-    caption: 'Dev-Connector',
+    caption: 'tariqys.dev',
     tech:
       "Personal Project: This website! Hope you like it. It uses Gatsby.Js to serve static HTML files rather than JavaScript. Which is why it's fast. Hosted with Netlify and Cloudflare.",
     description: 'Tech: React.Js, Gatsby.Js',
-    link: 'https://agile-temple-78256.herokuapp.com/',
+    link: 'https://www.tariqys.com/',
   },
 
   {
