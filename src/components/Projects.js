@@ -1,13 +1,13 @@
 import React, { PureComponent } from 'react'
 import NoLightGallery from './NoLightGallery'
 
-import thumb01 from '../assets/images/thumbs/1.png'
+import thumb01 from '../assets/images/thumbs/1.PNG'
 import thumb01b from '../assets/images/thumbs/1.webp'
-import thumb02 from '../assets/images/thumbs/2.png'
+import thumb02 from '../assets/images/thumbs/2.PNG'
 import thumb02b from '../assets/images/thumbs/2.webp'
-import thumb03 from '../assets/images/thumbs/3.png'
+import thumb03 from '../assets/images/thumbs/3.PNG'
 import thumb03b from '../assets/images/thumbs/3.webp'
-import thumb04 from '../assets/images/thumbs/4.png'
+import thumb04 from '../assets/images/thumbs/4.PNG'
 import thumb04b from '../assets/images/thumbs/4.webp'
 
 const DEFAULT_IMAGES = [

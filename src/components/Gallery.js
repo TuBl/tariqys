@@ -66,7 +66,7 @@ class Gallery extends PureComponent {
           >
             <picture>
               <source srcSet={obj.thumbnail} type="image/webp" />
-              <source srcSet={obj.altThumbnail} type="image/png" />
+              <source srcSet={obj.altThumbnail} type="image/PNG" />
               <img src={obj.altThumbnail} alt="" />
             </picture>
           </a>
