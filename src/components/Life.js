@@ -7,13 +7,13 @@ import ig_thumb03 from '../assets/images/ig_thumbs/03.webp'
 import ig_thumb04 from '../assets/images/ig_thumbs/04.webp'
 
 import alt_ig_thumb01 from '../assets/images/ig_thumbs/01.PNG'
-import alt_ig_thumb02 from '../assets/images/ig_thumbs/02.png'
-import alt_ig_thumb03 from '../assets/images/ig_thumbs/03.png'
+import alt_ig_thumb02 from '../assets/images/ig_thumbs/02.PNG'
+import alt_ig_thumb03 from '../assets/images/ig_thumbs/03.PNG'
 import alt_ig_thumb04 from '../assets/images/ig_thumbs/04.png'
 
 import ig_full01 from '../assets/images/ig_fulls/01.PNG'
-import ig_full02 from '../assets/images/ig_fulls/02.png'
-import ig_full03 from '../assets/images/ig_fulls/03.png'
+import ig_full02 from '../assets/images/ig_fulls/02.PNG'
+import ig_full03 from '../assets/images/ig_fulls/03.PNG'
 import ig_full04 from '../assets/images/ig_fulls/04.png'
 
 import book1_full from '../assets/images/book_fulls/01.png'
