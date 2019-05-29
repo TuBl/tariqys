@@ -9,28 +9,28 @@ import ig_thumb04 from '../assets/images/ig_thumbs/04.webp'
 import alt_ig_thumb01 from '../assets/images/ig_thumbs/01.PNG'
 import alt_ig_thumb02 from '../assets/images/ig_thumbs/02.PNG'
 import alt_ig_thumb03 from '../assets/images/ig_thumbs/03.PNG'
-import alt_ig_thumb04 from '../assets/images/ig_thumbs/04.PNG'
+import alt_ig_thumb04 from '../assets/images/ig_thumbs/04.png'
 
 import ig_full01 from '../assets/images/ig_fulls/01.PNG'
 import ig_full02 from '../assets/images/ig_fulls/02.PNG'
 import ig_full03 from '../assets/images/ig_fulls/03.PNG'
-import ig_full04 from '../assets/images/ig_fulls/04.PNG'
+import ig_full04 from '../assets/images/ig_fulls/04.png'
 
-import book1_full from '../assets/images/book_fulls/01.PNG'
+import book1_full from '../assets/images/book_fulls/01.png'
 import book1_thumb from '../assets/images/book_thumbs/01.webp'
-import alt_book1_thumb from '../assets/images/book_thumbs/01.PNG'
+import alt_book1_thumb from '../assets/images/book_thumbs/01.png'
 
 import book2_full from '../assets/images/book_fulls/02.jpg'
 import book2_thumb from '../assets/images/book_thumbs/02.webp'
-import alt_book2_thumb from '../assets/images/book_thumbs/02.PNG'
+import alt_book2_thumb from '../assets/images/book_thumbs/02.png'
 
 import book3_full from '../assets/images/book_fulls/03.jpg'
 import book3_thumb from '../assets/images/book_thumbs/03.webp'
-import alt_book3_thumb from '../assets/images/book_thumbs/03.PNG'
+import alt_book3_thumb from '../assets/images/book_thumbs/03.png'
 
 import book4_full from '../assets/images/book_fulls/04.PNG'
 import book4_thumb from '../assets/images/book_thumbs/04.webp'
-import alt_book4_thumb from '../assets/images/book_thumbs/04.PNG'
+import alt_book4_thumb from '../assets/images/book_thumbs/04.png'
 
 const BOOK_IMAGES = [
   {
