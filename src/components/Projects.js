@@ -97,7 +97,7 @@ export default class Projects extends PureComponent {
             </li>
             <li>
               <a
-                href="https://drive.google.com/open?id=1oONaaipIBFTXuqccRo6p-V9DEEw87Vf2"
+                href="https://drive.google.com/file/d/103IQT1l_GX2vtgjRSibBwjRyKu0YTOnH/view"
                 className="button resume"
                 target="_blank"
                 rel="noopener noreferrer"
