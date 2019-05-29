@@ -31,16 +31,7 @@ const DEFAULT_IMAGES = [
     description: 'Tech: React.Js, Gatsby.Js',
     link: 'https://agile-temple-78256.herokuapp.com/',
   },
-  {
-    id: 'thumb2',
-    thumbnail: thumb02b,
-    altThumbnail: thumb02,
-    caption: 'ToDo-list',
-    tech:
-      'Personal Project: A todo list Web app that can add a to do, check it off as done or completely remove. done to practice NodeJS and MongoDB',
-    description: 'Tech: MongoDB, Express.Js, Node.Js',
-    link: 'https://github.com/TuBl/ToDo',
-  },
+
   {
     id: 'thumb3',
     thumbnail: thumb03b,
@@ -52,14 +43,14 @@ const DEFAULT_IMAGES = [
     link: 'https://agile-temple-78256.herokuapp.com/',
   },
   {
-    id: 'thumb4',
-    thumbnail: thumb04b,
-    altThumbnail: thumb04,
-    caption: 'Dev-Connector',
+    id: 'thumb2',
+    thumbnail: thumb02b,
+    altThumbnail: thumb02,
+    caption: 'ToDo-list',
     tech:
-      'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like & unlike system and more.',
-    description: 'Tech: MongoDB, Express.Js, React.Js, Redux.Js, Node.Js',
-    link: 'https://agile-temple-78256.herokuapp.com/',
+      'Personal Project: A todo list Web app that can add a to do, check it off as done or completely remove. done to practice NodeJS and MongoDB',
+    description: 'Tech: MongoDB, Express.Js, Node.Js',
+    link: 'https://github.com/TuBl/ToDo',
   },
 ]
 
