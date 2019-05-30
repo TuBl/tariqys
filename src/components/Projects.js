@@ -25,7 +25,7 @@ const DEFAULT_IMAGES = [
     id: 'thumb4',
     thumbnail: thumb04b,
     altThumbnail: thumb04,
-    caption: 'tariqys.dev',
+    caption: 'tariqys.com',
     tech:
       "Personal Project: This website! Hope you like it. It uses Gatsby.Js to serve static HTML files rather than JavaScript. Which is why it's fast. Hosted with Netlify and Cloudflare.",
     description: 'Tech: React.Js, Gatsby.Js',
@@ -97,7 +97,7 @@ export default class Projects extends PureComponent {
             </li>
             <li>
               <a
-                href="https://drive.google.com/file/d/103IQT1l_GX2vtgjRSibBwjRyKu0YTOnH/view"
+                href="https://drive.google.com/file/d/1pk9Fn-BNkN8GRmtrRhPG1pBmkOHxxjGk/view"
                 className="button resume"
                 target="_blank"
                 rel="noopener noreferrer"
