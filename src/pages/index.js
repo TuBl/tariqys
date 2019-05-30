@@ -5,7 +5,7 @@ import React from 'react'
 import Layout from '../components/layout'
 import Projects from '../components/Projects'
 import Contact from '../components/Contact'
-import Life from '../components/Life'
+
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 class HomeIndex extends React.PureComponent {
@@ -23,24 +23,17 @@ class HomeIndex extends React.PureComponent {
     this.handleScroll = this.handleScroll.bind(this)
 
     this.projectsRef = React.createRef()
-    this.lifeRef = React.createRef()
     this.contactRef = React.createRef()
     this.topRef = React.createRef()
   }
 
   onClick(e, component) {
-    if (component === 'Life') {
-      this.projectsRef.current.classList.remove('work')
-      this.contactRef.current.classList.remove('contact')
-      this.lifeRef.current.classList.add('life')
-    } else if (component === 'Contact') {
+    if (component === 'Contact') {
       this.projectsRef.current.classList.remove('work')
       this.contactRef.current.classList.add('contact')
-      this.lifeRef.current.classList.remove('life')
     } else if (component === 'Projects') {
       this.projectsRef.current.classList.add('work')
       this.contactRef.current.classList.remove('contact')
-      this.lifeRef.current.classList.remove('life')
     }
 
     this.setState({ renderState: e })
@@ -106,21 +99,6 @@ class HomeIndex extends React.PureComponent {
                   Projects
                 </a>
               </li>
-              {
-                <li>
-                  <a
-                    ref={this.lifeRef}
-                    href="javascript:void(0)"
-                    className="button"
-                    id="dev"
-                    onClick={() => {
-                      this.onClick(<Life />, 'Life')
-                    }}
-                  >
-                    About me
-                  </a>
-                </li>
-              }
               <li>
                 <a
                   ref={this.contactRef}
