@@ -1,7 +1,7 @@
 import React, { PureComponent } from 'react'
 import NoLightGallery from './NoLightGallery'
 
-import thumb01 from '../assets/images/thumbs/1.PNG'
+import thumb01 from '../assets/images/thumbs/1.png'
 import thumb01b from '../assets/images/thumbs/1.webp'
 import thumb02 from '../assets/images/thumbs/2.png'
 import thumb02b from '../assets/images/thumbs/2.webp'
