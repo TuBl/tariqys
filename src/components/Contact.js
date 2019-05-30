@@ -18,7 +18,7 @@ export default class Contact extends PureComponent {
   }
 
   onClick(e) {
-    this.setState({ me: 'tariqysa@gmail.com' })
+    this.setState({ me: 'tariqys@gmail.com' })
 
     if (e === 'tariqys@gmail.com') {
       window.open('mailto:tariqys@gmail.com', '_parent')
