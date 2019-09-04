@@ -9,8 +9,20 @@ import thumb03 from '../assets/images/thumbs/3.png'
 import thumb03b from '../assets/images/thumbs/3.webp'
 import thumb04 from '../assets/images/thumbs/4.png'
 import thumb04b from '../assets/images/thumbs/4.webp'
-
+import thumb05 from '../assets/images/thumbs/5.png'
+import thumb05b from '../assets/images/thumbs/5.webp'
 const DEFAULT_IMAGES = [
+  {
+    id: 'thumb5',
+    thumbnail: thumb05b,
+    altThumbnail: thumb05,
+    caption: '',
+    tech:
+      'Client Project, HRM Application for Salvation Army London CA, This application was based on their old HRM application using MS Access. The database was migrated to MYSQL and a Front-end using ReactJS was designed to match the old application, but with better performance, functionality and user-interface',
+    description:
+      'Tech: ReactJS, ExpressJs, NodeJS, MYSQL, Sequalize, MaterialUI, PassportJS',
+    link: 'https://github.com/TuBl/COH',
+  },
   {
     id: 'thumb1',
     thumbnail: thumb01b,
@@ -22,6 +34,17 @@ const DEFAULT_IMAGES = [
     link: 'https://immense-bayou-20235.herokuapp.com/',
   },
   {
+    id: 'thumb3',
+    thumbnail: thumb03b,
+    altThumbnail: thumb03,
+    caption: 'Dev-Connector',
+    tech:
+      'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like and unlike system and more.',
+    description: 'Tech: MongoDB, Express.Js, React.Js, Redux.Js, Node.Js',
+    link: 'https://agile-temple-78256.herokuapp.com/',
+  },
+
+  {
     id: 'thumb4',
     thumbnail: thumb04b,
     altThumbnail: thumb04,
@@ -32,16 +55,6 @@ const DEFAULT_IMAGES = [
     link: 'https://www.tariqys.com/',
   },
 
-  {
-    id: 'thumb3',
-    thumbnail: thumb03b,
-    altThumbnail: thumb03,
-    caption: 'Dev-Connector',
-    tech:
-      'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like and unlike system and more.',
-    description: 'Tech: MongoDB, Express.Js, React.Js, Redux.Js, Node.Js',
-    link: 'https://agile-temple-78256.herokuapp.com/',
-  },
   {
     id: 'thumb2',
     thumbnail: thumb02b,
