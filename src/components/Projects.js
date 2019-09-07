@@ -21,7 +21,7 @@ const DEFAULT_IMAGES = [
       'Client Project, HRM Application for Salvation Army London CA, This application was based on their old HRM application using MS Access. The database was migrated to MYSQL and a Front-end using ReactJS was designed to match the old application, but with better performance, functionality and user-interface',
     description:
       'Tech: ReactJS, ExpressJs, NodeJS, MYSQL, Sequalize, MaterialUI, PassportJS',
-    link: 'https://github.com/TuBl/COH',
+    link: 'https://github.com/TuBl/COHShow',
   },
   {
     id: 'thumb1',
