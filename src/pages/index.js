@@ -70,11 +70,13 @@ class HomeIndex extends React.PureComponent {
                 {'{'} software development is my passion 💻 {'}'}
               </h2>
               <p>
-                I'm a 23 years old with a bachelor's in Computer Engineering
-                from Multimedia University Cyberjaya. Currently doing a
-                post-grad in Network Security and Architecture at Fanshawe
-                College. I offer consultation/freelancing services. Let's make
-                something for{' '}
+                I'm a Full-stack developer with extensive experience in building
+                beautiful, responsive Websites. I have 3 years of experience of
+                Full-stack development. My goal is to get you closer to your
+                dream site, whether it is a Stunning landing page, a profitable
+                e-commerce platform or a complex Full-stack application. I also
+                provide other services such as research, API Testing and
+                micro-services / packages development. Let's make something for{' '}
                 <span
                   style={{
                     textDecoration: 'underline',

@@ -13,7 +13,30 @@ import thumb05 from '../assets/images/thumbs/5.png'
 import thumb05b from '../assets/images/thumbs/5.webp'
 import thumb06 from '../assets/images/thumbs/6.PNG'
 import thumb06b from '../assets/images/thumbs/6.webp'
+import thumb07 from '../assets/images/thumbs/7.PNG'
+import thumb07b from '../assets/images/thumbs/7.webp'
+import thumb08 from '../assets/images/thumbs/8.PNG'
+import thumb08b from '../assets/images/thumbs/8.webp'
 const DEFAULT_IMAGES = [
+  {
+    id: 'thumb7',
+    thumbnail: thumb07b,
+    altThumbnail: thumb07,
+    caption: '',
+    tech:
+      'Client Project, A responsive website for TomBalls floors & remodeling utilizing VueJS for the front-end and NodeJS for the back end',
+    description: 'Tech: VueJS, NodeJS, ExpressJS, MYSQL, NodeMailer, Heroku',
+    link: 'https://tomballs.herokuapp.com/',
+  },
+  {
+    id: 'thumb8',
+    thumbnail: thumb08b,
+    altThumbnail: thumb08,
+    caption: '',
+    tech: 'Side project, an E-commerce site with stripe integration',
+    description: 'Tech: VueJS, PHP, Laravel, MYSQL, Stripe-payment, Heroku',
+    link: 'https://spicy-coffee.herokuapp.com/',
+  },
   {
     id: 'thumb5',
     thumbnail: thumb05b,
@@ -22,18 +45,16 @@ const DEFAULT_IMAGES = [
     tech:
       'Client Project, HRM Application for Salvation Army London CA, This application was based on their old HRM application using MS Access. The database was migrated to MYSQL and a Front-end using ReactJS was designed to match the old application, but with better performance, functionality and user-interface',
     description:
-      'Tech: ReactJS, ExpressJs, NodeJS, MYSQL, Sequalize, MaterialUI, PassportJS',
+      'Tech: ReactJS, ExpressJS, NodeJS, MYSQL, Sequalize, MaterialUI, PassportJS',
     link: 'https://github.com/TuBl/COHShow',
   },
-    {
+  {
     id: 'thumb6',
     thumbnail: thumb06b,
     altThumbnail: thumb06,
     caption: '',
-    tech:
-      'Instagram Clone using PHP Laravel / Blade Template / VueJS',
-    description:
-      'Tech: Vue, PHP, Laravel, SQLite, Blade Templates',
+    tech: 'Instagram Clone using PHP Laravel, Blade Templates & VueJS',
+    description: 'Tech: Vue, PHP, Laravel, SQLite, Blade Templates',
     link: 'https://github.com/TuBl/InstaClone',
   },
   {
