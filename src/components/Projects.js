@@ -95,9 +95,9 @@ const DEFAULT_IMAGES = [
     altThumbnail: thumb02,
     caption: 'ToDo-list',
     tech:
-      'Personal Project: A todo list Web app that can add a to do, check it off as done or completely remove. done to practice NodeJS and MongoDB',
-    description: 'Tech: MongoDB, Express.Js, Node.Js',
-    link: 'https://github.com/TuBl/ToDo',
+      'Personal Project: A todo list application that utilized VueJS and a jsonplacer holder api',
+    description: 'Tech: JSON place-holder API, VueJS',
+    link: 'https://stupefied-hopper-845e2a.netlify.app/',
   },
 ]
 
