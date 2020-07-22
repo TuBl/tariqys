@@ -13,9 +13,9 @@ import thumb05 from '../assets/images/thumbs/5.png'
 import thumb05b from '../assets/images/thumbs/5.webp'
 import thumb06 from '../assets/images/thumbs/6.png'
 import thumb06b from '../assets/images/thumbs/6.webp'
-import thumb07 from '../assets/images/thumbs/7.PNG'
+import thumb07 from '../assets/images/thumbs/7.png'
 import thumb07b from '../assets/images/thumbs/7.webp'
-import thumb08 from '../assets/images/thumbs/8.PNG'
+import thumb08 from '../assets/images/thumbs/8.png'
 import thumb08b from '../assets/images/thumbs/8.webp'
 const DEFAULT_IMAGES = [
   {
