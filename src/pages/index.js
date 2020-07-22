@@ -67,7 +67,7 @@ class HomeIndex extends React.PureComponent {
           <section id="one">
             <header className="major">
               <h2>
-                {'{'} software development is my passion 💻 {'}'}
+                {'{'} One step closer to your dream site 💻 {'}'}
               </h2>
               <p>
                 I'm a Full-stack developer with extensive experience in building
