@@ -17,12 +17,23 @@ import thumb07 from '../assets/images/thumbs/7.png'
 import thumb07b from '../assets/images/thumbs/7.webp'
 import thumb08 from '../assets/images/thumbs/8.png'
 import thumb08b from '../assets/images/thumbs/8.webp'
+import thumb09 from '../assets/images/thumbs/9.png'
+import thumb09b from '../assets/images/thumbs/9.webp'
 const DEFAULT_IMAGES = [
+  {
+    id: 'thumb9',
+    thumbnail: thumb09b,
+    altThumbnail: thumb09,
+    caption: 'quantumzero',
+    tech: 'Client Project, A stylish, responsive website for quantumzero co',
+    description: 'Tech: VueJS, Bluehost',
+    link: 'https://quantumzero.net/',
+  },
   {
     id: 'thumb7',
     thumbnail: thumb07b,
     altThumbnail: thumb07,
-    caption: '',
+    caption: 'Tomballs',
     tech:
       'Client Project, A responsive website for TomBalls floors & remodeling utilizing VueJS for the front-end and NodeJS for the back end',
     description: 'Tech: VueJS, NodeJS, ExpressJS, MYSQL, NodeMailer, Heroku',
@@ -32,7 +43,7 @@ const DEFAULT_IMAGES = [
     id: 'thumb8',
     thumbnail: thumb08b,
     altThumbnail: thumb08,
-    caption: '',
+    caption: 'SpicyCoffee',
     tech: 'Side project, an E-commerce site with stripe integration',
     description: 'Tech: VueJS, PHP, Laravel, MYSQL, Stripe-payment, Heroku',
     link: 'https://spicy-coffee.herokuapp.com/',
@@ -41,7 +52,7 @@ const DEFAULT_IMAGES = [
     id: 'thumb5',
     thumbnail: thumb05b,
     altThumbnail: thumb05,
-    caption: '',
+    caption: 'COH-HRM',
     tech:
       'Client Project, HRM Application for Salvation Army London CA, This application was based on their old HRM application using MS Access. The database was migrated to MYSQL and a Front-end using ReactJS was designed to match the old application, but with better performance, functionality and user-interface',
     description:
@@ -52,7 +63,7 @@ const DEFAULT_IMAGES = [
     id: 'thumb6',
     thumbnail: thumb06b,
     altThumbnail: thumb06,
-    caption: '',
+    caption: 'InstaClone',
     tech: 'Instagram Clone using PHP Laravel, Blade Templates & VueJS',
     description: 'Tech: Vue, PHP, Laravel, SQLite, Blade Templates',
     link: 'https://github.com/TuBl/InstaClone',
