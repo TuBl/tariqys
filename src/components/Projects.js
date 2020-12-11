@@ -19,7 +19,18 @@ import thumb08 from '../assets/images/thumbs/8.png'
 import thumb08b from '../assets/images/thumbs/8.webp'
 import thumb09 from '../assets/images/thumbs/9.png'
 import thumb09b from '../assets/images/thumbs/9.webp'
+import thumb10 from '../assets/images/thumbs/10.png'
+import thumb10b from '../assets/images/thumbs/10.webp'
 const DEFAULT_IMAGES = [
+  {
+    id: 'thumb10',
+    thumbnail: thumb10b,
+    altThumbnail: thumb10,
+    caption: 'weather-app',
+    tech: 'Weather application that I used to practice animating SVGs',
+    description: 'Tech: VueJS, SaaS',
+    link: 'https://tubi-weather.netlify.app/',
+  },
   {
     id: 'thumb9',
     thumbnail: thumb09b,
