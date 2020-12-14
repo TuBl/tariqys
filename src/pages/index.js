@@ -71,7 +71,7 @@ class HomeIndex extends React.PureComponent {
               </h2>
               <p>
                 I'm a Full-stack developer with extensive experience in building
-                beautiful, responsive Websites. I have 3 years of experience of
+                beautiful, responsive Websites. I have 2 years of experience of
                 Full-stack development. My goal is to get you closer to your
                 dream site, whether it is a Stunning landing page, a profitable
                 e-commerce platform or a complex Full-stack application. I also
